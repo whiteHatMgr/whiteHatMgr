@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whiteHatMgr
 - 👀 I’m interested in wathever  is related to knowledge..
 - 🌱 I’m currently learning web development techniques and tecnologie.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in any programming related to microcontrollers or any other hardware
 - 📫 How to reach me ... wa.me/+237683361370
 
 <!---
